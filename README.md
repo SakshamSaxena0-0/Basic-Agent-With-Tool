@@ -25,3 +25,9 @@ This repository demonstrates a basic multi-agent system using `AutoGen` to fetch
 <ul dir="auto">
 This project is licensed under the MIT License. See the LICENSE file for details.
 </ul>
+
+## Author
+<ul dir="auto">
+Name:- Saksham Saxena
+Email:- sakshamsaxena09004@gmail.com
+</ul>
