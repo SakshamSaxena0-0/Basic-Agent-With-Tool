@@ -28,6 +28,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Author
 <ul dir="auto">
-Name:- Saksham Saxena
+Name:- Saksham Saxena<br>
 Email:- sakshamsaxena09004@gmail.com
 </ul>
