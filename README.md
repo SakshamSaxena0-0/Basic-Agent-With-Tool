@@ -14,6 +14,7 @@ This repository demonstrates a basic multi-agent system using `AutoGen` to fetch
 
 1. **Create and activate** a virtual environment:
    ```bash
+   
    python -m venv venv
    source venv/bin/activate  # macOS/Linux
    # or on Windows PowerShell:
