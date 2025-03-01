@@ -21,6 +21,20 @@ This repository demonstrates a basic multi-agent system using `AutoGen` to fetch
    # .\venv\Scripts\Activate.ps1
 
 
+## Usage
+<ul dir="auto">
+• After setting up the environment, run the agent_with_tool.py file to start the chat.<br>
+• The assistant will ask you to fetch or plot stock data for a given ticker.<br>
+• The user will provide the ticker and the assistant will fetch the stock data and plot it.<br>
+</ul>
+
+### Example
+<ul dir="auto">
+• User: fetch stock data for AAPL<br>
+• assistant: Fetched stock data for AAPL.<br>
+• User: plot stock data for AAPL<br>
+• assistant: Plotted stock data for AAPL.
+
 ## License
 <ul dir="auto">
 This project is licensed under the MIT License. See the LICENSE file for details.
